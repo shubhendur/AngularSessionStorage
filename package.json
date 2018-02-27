@@ -1,0 +1,21 @@
+{
+    "name": "angularpoc",
+    "version": "1.0.0",
+    "description": "angular proof of concept",
+    "main": "app.js",
+    "dependencies": {
+      
+    },
+    "devDependencies": {
+      "angular": "^1.6.9",
+      "lite-server": "^2.3.0",
+      "eslint": "^4.18.1"
+    },
+    "scripts": {
+      "dev": "lite-server",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
